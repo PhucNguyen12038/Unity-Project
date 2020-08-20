@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7F70F501-691D-A177-3015-69ED095938F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HandPresence.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HandPresence.cs" Line="73" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bowling" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="HandPresence.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f02c1453-b9f2-4f8c-9e68-2087cc8b24fa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

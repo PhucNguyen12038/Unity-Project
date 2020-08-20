@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{28AE0A3E-926E-A90C-0648-611762737FBF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/KnightController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/KnightController.cs" Line="54" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Knight_Fighter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="KnightController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="28f687b1-9bd3-41f1-8ad0-6e338eb41148" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
